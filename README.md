@@ -14,4 +14,4 @@ it is going to be the seed webapp for my first web service, named "white-memo".
 
 Good Luck to me & Hello, world!
 
-fetch/master
+fetch/master edited by "fetchyeji"
