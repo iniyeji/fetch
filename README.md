@@ -1,3 +1,15 @@
-아 이거 아닌데 자체 save는 소용 없음
-그다음은 git add->이것도 소용 없음. 
-1.git add README.md 
+# Ruby on Rails Tutorial
+
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/). 
+
+and
+[*Getting Started with Rails*](http://guides.rubyonrails.org/v5.2/getting_started.html)
+.
+
+it is going to be the seed webapp for my first web service, named "white-memo".
+
+Good Luck to me & Hello, world!
