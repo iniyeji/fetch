@@ -28,3 +28,5 @@ fetch/master edited by "fetchyeji"
 * 지금 계속 origin remote 가 아니라 fetch remote 에서 push하고 있는 것인데... 외관상으로(깃헙웹) 그리고 콘솔 상에서도 전혀 모르겠다... 흠... 익너 더 알아봐야할듯
 * 오늘은 여기까찌! 
 * 자야 수업을 가지. 안녕!
+* (그래서 git push origin master가 아니라 git push fetch master가 명령어 였음.)
+* 아.. 사실 fetch 연습을 위한 거였는데.. 음하하하... 하하...ㅎㅎㅎ 
